@@ -1,0 +1,23 @@
+Hello Forks!!!!!,
+
+Welcome to the course!!
+
+I am Surya teja the instructor for this course
+I am a graduate from Vardhaman College Of Engineering(JNTUH), Hyderabad and am currently working as a software engineer
+with 2+ years of experience.
+
+In this course, I would be explaining to you the concepts of basic websites hacking.
+
+Pre-requisites for the course are: HTML, SQL, JAVASCRIPT and basic Linux commands.
+
+The content of this course is to solve the basic missions and realistic missions of Hackthissite.com
+
+In the Basic missions, you will be solving 11 missions.(These are basic missions can be solved easily with the help of
+basic knowledge on HTML, JAVASCRIPT and Linux commands)
+
+Once you have completed the basic missions, you will be solving the realistic missions.
+
+In the Realistic missions, you will be solving 9 missions.(These are the missions which are a bit difficult and tricky
+to solve)
+
+Note: This course is only for educational purpose. Should not be used for any illegal activities.
